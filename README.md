@@ -8,4 +8,4 @@ Apasionado de la programación y siempre al tanto de las últimas novedades del 
 
 [Web](https://carlosbarondev.com/)\
 [LinkedIn](https://www.linkedin.com/in/carlos-baron-palacios/)\
-Email: carlosbarondev@gmail.com
+carlosbarondev@gmail.com
