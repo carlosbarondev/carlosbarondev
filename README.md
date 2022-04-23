@@ -6,4 +6,6 @@ También soy Técnico Superior en Sistemas de Telecomunicaciones (STI) y Técnic
 
 Apasionado de la programación y siempre al tanto de las últimas novedades del mundillo. Me gusta desarrollar mis aplicaciones con Javascript, con predilección por el stack MERN, construyendo el backend con Node y el frontend con React.
 
+[Web](https://carlosbarondev.com/)
 [LinkedIn](https://www.linkedin.com/in/carlos-baron-palacios/)
+Email: carlosbarondev@gmail.com
